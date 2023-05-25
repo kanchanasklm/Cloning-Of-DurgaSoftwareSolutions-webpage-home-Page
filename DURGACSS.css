@@ -1,0 +1,99 @@
+.background-color {
+    background-color: black;
+    width: 100%;
+    color: white;
+
+}
+
+.welcomedurgacontainer{
+    background-color:#ededf5;
+   
+}
+
+.hrr{
+    border-radius:180px;
+    background-color:black;
+    font-size: 30px;
+    margin-bottom:14%;
+}
+
+.icon-rtl {
+    padding-right:20px;
+    background: url("https://static.thenounproject.com/png/101791-200.png") no-repeat right;
+    background-size: 20px;
+  } 
+
+
+
+.featuresCard-background-color{
+    background-color:white;
+    
+    
+}
+
+.formbutton {
+    height:30px;
+  
+   
+}
+
+.icon-container {
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    border-radius: 400px;
+    margin: 15px;
+    padding-top: 26px;
+    padding-bottom: 18px;
+    padding-right: 20px;
+    padding-left: 26px;
+    border-color: red;
+    border-style: solid;
+    
+}
+
+
+.icon {
+    color: red;
+    font-size: 35px;
+  
+}
+
+.icon-heading {
+    font-size: 20px;
+    padding-left: 20px;
+
+}
+
+.icon-container:hover{
+    background-color: red;
+    
+}
+.icon-container:hover svg{
+    color:white;
+}
+
+
+
+
+
+
+.end-part {
+    background-color: black;
+   
+}
+
+.end-part-text {
+    color: red;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Roboto";
+}
+
+.accept-cookkies-button {
+    color: white;
+    font-size: 16px;
+    background-color: blue;
+    border-color: blue;
+    border-style: none;
+}
